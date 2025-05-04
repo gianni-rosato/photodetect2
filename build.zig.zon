@@ -1,0 +1,13 @@
+.{
+    .name = .photodetect2,
+    .version = "0.0.1",
+    .fingerprint = 0xdf9f60ff6f526f70,
+    .minimum_zig_version = "0.14.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
